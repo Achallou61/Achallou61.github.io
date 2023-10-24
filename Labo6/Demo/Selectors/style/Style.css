@@ -1,0 +1,34 @@
+body
+{
+    background-color: yellow
+}
+/*pseudo element selector*/
+p:first-letter
+{
+    color: red;
+    font-size: 5em;
+}
+/*
+p:first-line
+{
+    text-decoration: underline;
+}*/
+
+/*pseudo-class selector*/
+
+a:link
+{
+    text-decoration: none;
+}
+/*De grote teken staat voor child*/
+li>a:hover
+{
+    text-decoration: underline;
+}
+
+/*je kan ook 2n geven voor alle even lijnen enzo voort*/
+li:nth-child(2)
+{
+    color: blue;
+}
+
