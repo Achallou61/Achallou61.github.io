@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.check{
+    background: url("checkt.png")left no-repeat;
+    background-size: 16px;
+    padding-left: 15px;
+    margin-left: 15px;
+
+}
+.checklist{
+    list-style-type: none;
+    margin-left: 25px;
+}

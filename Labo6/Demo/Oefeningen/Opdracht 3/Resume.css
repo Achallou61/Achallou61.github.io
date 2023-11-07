@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+
+}
+header{
+    background-color: #2B2D42;
+    padding: 30px;
+    color: #8d99ae;
+    margin-bottom: 10px;
+}
+a{
+    color: red;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Helvetica;
+    color: #edf2fa;
+}
+h2{
+    font-size: 40px;
+    font-family: Helvetica;
+    color: #edf2fa;
+}
+
+.education h2{
+    color: black;
+}
+
+.education{
+    background-color: #8d99ae;
+    padding: 30px;
+}
+footer{
+    padding: 30px;
+    color: #8d99ae;
+    margin-top: 10px;
+    background-color: #2B2D42;
+}
+
+footer h2{
+    color: #8d99ae;
+}
